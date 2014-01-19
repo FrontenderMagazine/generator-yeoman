@@ -282,8 +282,9 @@ API). Обычно сценарий команды создания папок, 
 
 - Первым делом, конечно, 
 [официальная документация][yeoman-write-first-generator].
-- Не забываем про некоторые полезные сниппеты для написания генератора 
-приведены на официальном сайте (http://yeoman.io/generators.html#snippets). 
+- Не забываем про некоторые 
+[полезные сниппеты для написания генератора][yeoman-off-snippets] на 
+официальном сайте. 
 - По [тэгу yeoman на HTML5Rocks][yeoman-on-the-html5roks] можно найти свежие 
 выпуски «The Yeoman Monthly Digest», содержащего достаточно много полезных 
 туториалов по написанию и использованию различного рода генераторов.
@@ -308,3 +309,4 @@ API). Обычно сценарий команды создания папок, 
 [Yeoman]: img/yeoman.png "Yeoman"
 [Yeoman-generator-example]: img/generator.png "Примет работы генератора Yeoman"
 [my-old-article]: http://frontender.info/skaffolding-dlya-frontenderov/
+[yeoman-off-snippets]: http://yeoman.io/generators.html#snippets
