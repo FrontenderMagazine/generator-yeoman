@@ -335,9 +335,9 @@ npm-пакеты, необходимые для работы проектног�
 У этого типа вопроса следующие свойства: `type`, `name`, `message`, 
 [`default`, `filter`, `validate`].
 
-![Пример вопроса типа «Input»][question-example-input]
+![Пример вопроса типа «Password»][question-example-password]
 
-*Пример вопроса типа «Input»*
+*Пример вопроса типа «Password»*
 
 Более подробные нюансы использования этого модуля вы можете найти 
 [в его официальной документации][question-object] на английском языке.
@@ -408,7 +408,6 @@ npm-пакеты, необходимые для работы проектног�
 		function hasFeature(feat) { return props.features.indexOf(feat) !== -1; }
 	
 		this.framework = props.framework;
-		this.sass = props.sass;
 		this.sass = props.sass;
 		this.modernizr = hasFeature('modernizr');
 		this.autoprefixer = hasFeature('autoprefixer');
