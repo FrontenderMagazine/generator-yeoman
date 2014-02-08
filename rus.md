@@ -578,7 +578,7 @@ npm-пакеты, необходимые для работы проектног�
 
 [prompt-types]: https://github.com/SBoudrias/Inquirer.js#prompts-type
 [question-object]: https://github.com/SBoudrias/Inquirer.js#question
-[yeoman-generator-api]: https://github.com/yeoman/generator/wiki/actions
+[yeoman-generator-api]: http://yeoman.github.io/generator/actions.html
 [lo-dash]: http://lodash.com
 [generator-angular]: https://github.com/yeoman/generator-angular#generators
 [generator-backbone]: https://github.com/yeoman/generator-backbone/blob/master/all/index.js#L33
